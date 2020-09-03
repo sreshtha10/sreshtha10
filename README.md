@@ -9,6 +9,6 @@
 <br />
 
 
-![Sreshtha Mehrotra's github stats](https://github-readme-stats.vercel.app/api?username=sreshtha10&hide=issues,prs&show_icons=true&theme=tokyonight)
+![Sreshtha Mehrotra's github stats](https://github-readme-stats.vercel.app/api?username=sreshtha10&hide=issues,prs&show_icons=true&theme=tokyonight&private_count=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&layout=compact)
