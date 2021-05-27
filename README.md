@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently in 2nd Year of Computer Science Engineering
-- 🌱 I’m currently learning MySQL and Database Connectivity with Java.
-- 🥅 2021 Goals: Contribute more to Open Source projects. 
+- 🔭 I’m currently in 2nd Year of Computer Science Engineering 
 
 ### Connect with me:
 
@@ -25,4 +23,4 @@
 [a]: https://github.com/sreshtha10
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&layout=compact&theme=dark&langs_count=10&hide=html,shell)](https://github.com/anuraghazra/github-readme-stats)
