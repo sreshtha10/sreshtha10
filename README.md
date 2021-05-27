@@ -14,4 +14,4 @@
 [a]: https://github.com/sreshtha10
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&layout=compact&theme=dark&langs_count=10&hide=html,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&layout=compact&theme=dark&langs_count=10&hide=html,shell&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
