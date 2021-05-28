@@ -15,3 +15,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&layout=compact&theme=dark&langs_count=10&hide=html,shell&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=sreshtha10&style=flat)
