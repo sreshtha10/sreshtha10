@@ -1,14 +1,9 @@
-[![Sreshtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreshtha10&?count_private=true&hide=issues&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-___
-<br>
+![Metrics](https://metrics.lecoq.io/sreshtha10?template=classic&base.community=0&isocalendar=1&languages=1&achievements=1&lines=1&introduction=1&isocalendar.duration=full-year&languages.ignored=jupyter%20notebook%2C%20html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FCalcutta)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&hide=css,html&langs_count=4&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-___
-<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreshtha10&theme=vue)](https://git.io/streak-stats)
 ___
-
+<!--
 ## **Languages and Tools:**  
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -24,3 +19,4 @@ ___
 <code><img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code"></code>
 
 ___
+-->
