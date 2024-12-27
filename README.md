@@ -1,3 +1,4 @@
+
 # 👋 Hello, I'm Sreshtha Mehrotra
 
 I'm a passionate software developer who loves building innovative applications and solving problems. I specialize in **Android development**, **Full-Stack Web** and **Mobile development**, with an interest in **AI/ML** and **DevOps**.
@@ -7,35 +8,39 @@ I'm a passionate software developer who loves building innovative applications a
 
 ---
 
+## 💼 Experience
+
+- ![Cisco Systems](https://img.shields.io/badge/-Cisco%20Systems-%230075C1?style=for-the-badge&logo=cisco&logoColor=white)  
+  **Software Engineer** *(September 2024 - Present)*  
+  **Consulting Engineer** *(August 2023 - August 2024)*  
+  **Undergraduate Intern** *(January 2023 - June 2023)*  
+
+- ![Neoperk Technologies](https://img.shields.io/badge/-Neoperk%20Technologies-%23FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)  
+  **Software Developer Intern** *(September 2022 - December 2022)*  
+
+---
+
 ## 💻 Tech Stack
 
 #### Languages & Frameworks:
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 #### Libraries & Tools:
-- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-- ![Flask](https://img.shields.io/badge/Flask-%230000.svg?style=for-the-badge&logo=flask&logoColor=white)
-- ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+- ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+- ![Kibana](https://img.shields.io/badge/Kibana-%2300518A.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 #### Databases:
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### DevOps & Tools:
-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-- ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
