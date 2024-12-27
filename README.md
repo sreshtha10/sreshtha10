@@ -1,22 +1,7 @@
 
-# 👋 Hello, I'm Sreshtha Mehrotra
+# 👋 Hello, I'm Sreshtha Mehrotra [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreshtha-mehrotra)  
 
 I'm a passionate software developer who loves building innovative applications and solving problems. I specialize in **Android development**, **Full-Stack Web** and **Mobile development**, with an interest in **AI/ML** and **DevOps**.
-
-🌐 **Find me on:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreshtha-mehrotra)  
-
----
-
-## 💼 Experience
-
-- ![Cisco Systems](https://img.shields.io/badge/-Cisco%20Systems-%230075C1?style=for-the-badge&logo=cisco&logoColor=white)  
-  **Software Engineer** *(September 2024 - Present)*  
-  **Consulting Engineer** *(August 2023 - August 2024)*  
-  **Undergraduate Intern** *(January 2023 - June 2023)*  
-
-- ![Neoperk Technologies](https://img.shields.io/badge/-Neoperk%20Technologies-%23FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)  
-  **Software Developer Intern** *(September 2022 - December 2022)*  
 
 ---
 
