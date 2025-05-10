@@ -5,9 +5,11 @@
 > I'm curious, enthusiastic and student most of the time, like the rest of the time to write code in multiple languages like Java, Python and Javascript.
 
 
-![Sreshtha's github stats](https://github-readme-stats.vercel.app/api?username=sreshtha10&show_icons=true&hide_border=true)
+![Sreshtha's github stats](https://github-readme-stats.vercel.app/api?username=sreshtha10&show_icons=true&hide_border=true&theme=github_dark)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&theme=github_dark"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreshtha10&theme=github_dark" />
 
 ## Skills
 
