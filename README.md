@@ -2,7 +2,8 @@
 <p><em>Software Enginner @ Cisco</br>
 </em></p>
 
-> I'm curious, enthusiastic and student most of the time, like the rest of the time to write code in multiple languages like Java, Python and Javascript.
+> There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+— Bjarne Stroustrup
 
 
 ![Sreshtha's github stats](https://github-readme-stats.vercel.app/api?username=sreshtha10&show_icons=true&hide_border=true&theme=github_dark)
