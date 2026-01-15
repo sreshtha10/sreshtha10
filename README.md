@@ -1,14 +1,10 @@
-<h2>It's me, @sreshtha10</h2>
-<p><em>Software Enginner @ Cisco</br>
+<p>Hello!</p>
+<p><em>I'm currently working as a Software Enginner @ Cisco</br>
 </em></p>
 
-> There are only two kinds of languages: the ones people complain about and the ones nobody uses.
-— Bjarne Stroustrup
+> Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
+— Albert Einstein
 
-
-![Sreshtha's github stats](https://github-readme-stats.vercel.app/api?username=sreshtha10&show_icons=true&hide_border=true&theme=github_dark)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreshtha10&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&theme=github_dark"/>
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreshtha10&theme=github_dark" />
 
@@ -24,4 +20,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
